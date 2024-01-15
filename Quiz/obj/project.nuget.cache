@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ge4c+RjMu+cbTDsA5oO4SByxvj+1lb77NYJzZDHKU8OaKPHGMPnHHatzagv+a2/ByTtr1cqeLvDxS3V1RledCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Илля\\RiderProjects\\Quiz\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илля\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Илля\\.nuget\\packages\\telegram.bot\\20.0.0-alpha.1\\telegram.bot.20.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
